@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "792408269293",
+    "firebase_url": "https://onofflab-tamagochi-default-rtdb.firebaseio.com",
+    "project_id": "onofflab-tamagochi",
+    "storage_bucket": "onofflab-tamagochi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792408269293:android:53ff40dc3a84f8263407e4",
+        "android_client_info": {
+          "package_name": "com.example.onofflab_tamagochi_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsC7Nqj7nhqM54f5ev6jHVfvOIoukGB1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
